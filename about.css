@@ -20,8 +20,22 @@ img {
     max-width: 95%;
 }
 
+button {
+    margin-bottom: 15px;
+}
+
 .hidden {
     display: none;
+}
+
+section#hobbies {
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+li::marker {
+    color: #fa5e67;
   }
 
 a:any-link {
