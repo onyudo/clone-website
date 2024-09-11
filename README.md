@@ -6,4 +6,4 @@ I also took things a step further and added in some basic JavaScript to toggle t
 
 
 
-# [onyudo.github.io](https://duckduckgo.com)
+# [onyudo.github.io](https://onyudo.github.io)
