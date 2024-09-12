@@ -22,6 +22,9 @@ img {
 
 button {
     margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
 }
 
 .hidden {
@@ -30,13 +33,21 @@ button {
 
 section#hobbies {
     background-color: #ffffff;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
 }
 
 li::marker {
     color: #fa5e67;
-  }
+}
+
+li {
+    padding-bottom: 15px;
+}
+
+li:last-child  {
+    padding-bottom: 0px;
+}
 
 a:any-link {
     color: #ffffff;
