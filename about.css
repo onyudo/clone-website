@@ -57,3 +57,7 @@ a:any-link {
 a:hover {
     text-decoration: underline;
 }
+
+section#fotter {
+    margin-bottom: 25px;
+}
